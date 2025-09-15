@@ -26,3 +26,11 @@ Mandatory Command:
 https://github.com/dildarhussain7209/killer.gitgit --version
 git config --global user.name "dildarhussain7209"
 git config --global user.email "dildarhussain7209@gmail.com"
+
+
+
+
+git add .
+git status 
+git commit -m "commit message"
+git puss
