@@ -1,0 +1,28 @@
+Web Dev
+  >>Building/Developers Team
+  >>Testing Team (Manual Testers/Automated Testers)
+  >Hosting Team(DevOps Team)
+  >>Maintenance Team/Support Team
+SDLC (Software Development Life Cycle):
+  >>WaterFall Model
+  >>Agile Model
+  >>Spiral Model
+  >>Iterative Model
+  >>Incremental Model
+  >>V Shaped Model
+  >> RAD (Rapid Application Development)
+
+
+
+>> For 1st time need to configure gitgub in our system
+git config --global user.name "dildarhussain7209"
+git config --global user.email "dildarhussain7209@gmail.com"
+git config --global color.ui auto
+
+
+
+Mandatory Command:
+>> git init
+https://github.com/dildarhussain7209/killer.gitgit --version
+git config --global user.name "dildarhussain7209"
+git config --global user.email "dildarhussain7209@gmail.com"
